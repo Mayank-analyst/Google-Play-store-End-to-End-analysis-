@@ -157,19 +157,20 @@ This project demonstrates:
 
 ## 📄 Page 1 – Overview  
 
-![Overview Dashboard](Screenshot279.png)
+![Overview Dashboard](Screenshot%20%28279%29.png)
 
 ---
 
 ## 📄 Page 2 – Category Performance  
 
-![Category Performance Dashboard](Screenshot280.png)
+![Category Performance Dashboard](Screenshot%20%28280%29.png)
 
 ---
 
 ## 📄 Page 3 – Monetization & Pricing Insights  
 
-![Monetization Dashboard](Screenshot281.png)
+![Monetization Dashboard](Screenshot%20%28281%29.png)
+
 
 
 # 👤 Author  
